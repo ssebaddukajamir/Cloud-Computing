@@ -247,7 +247,7 @@ https://www.n-ix.com/internet-of-robotic-things/
    - Logistics: Route optimization, delivery time prediction, fleet management.
    - Telecommunications: Network anomaly detection, customer segmentation, churn prediction.
    - Government: Citizen service chatbots, public health analytics, traffic management.
- **  Team Up** — create teams.
+       **  Team Up** — create teams.
 
 2. **Design Architecture** — Propose a cloud architecture (compute, storage, networking, AI services) tailored to the chosen industry problem.
 
