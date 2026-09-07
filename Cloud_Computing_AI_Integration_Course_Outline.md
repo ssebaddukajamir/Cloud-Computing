@@ -231,6 +231,10 @@ By the end of this course, you will be able to:
 This is the culmination of the course, applying all skills to build a complete AI-powered solution for a specific industry problem.
 
 **Project:** Architect, secure, and launch a complete AI-powered business solution on a major cloud platform (e.g., AWS, Azure, GCP, or RENU Cloud).
+https://www.pluralsight.com/resources/blog/cloud/what-is-machine-learning-as-a-service-mlaas
+https://uniathena.com/what-is-machine-learning-as-a-service-MLaaS
+https://www.geeksforgeeks.org/computer-networks/machine-learning-as-a-service-mlaas/
+https://www.n-ix.com/internet-of-robotic-things/
 
 **Project Objectives (Practical & Applied):**
 
